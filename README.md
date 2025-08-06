@@ -1,4 +1,4 @@
-# Ứng dụng trò chuyện thời gian thực 
+# Demo Ứng dụng trò chuyện thời gian thực
 
 ![Chat Application](https://i.ytimg.com/vi/ZwFA3YMfkoc/maxresdefault.jpg)
 
@@ -9,5 +9,5 @@ Trong tài liệu này, chúng ta sẽ tạo một Ứng dụng Trò chuyện Th
 
 Sau khi xem hết video này, bạn sẽ hiểu rõ cách gửi và nhận tin nhắn bằng web socket và Socket.io để tạo bất kỳ ứng dụng thời gian thực nào.
 
-(Tham khảo project author **Adrian Hajdin - JS Mastery**, GitHub: https://github.com/adrianhajdin)
+(Tham khảo dự án tác giả **Adrian Hajdin - JS Mastery**, Nguồn GitHub: https://github.com/adrianhajdin)
 
