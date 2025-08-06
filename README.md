@@ -9,5 +9,5 @@ Trong tài liệu này, chúng ta sẽ tạo một Ứng dụng Trò chuyện Th
 
 Sau khi xem hết video này, bạn sẽ hiểu rõ cách gửi và nhận tin nhắn bằng web socket và Socket.io để tạo bất kỳ ứng dụng thời gian thực nào.
 
-(Tham khảo dự án tác giả **Adrian Hajdin - JS Mastery**, Nguồn GitHub: https://github.com/adrianhajdin)
+(Tham khảo dự án tác giả **Adrian Hajdin - JS Mastery**, nguồn github: https://github.com/adrianhajdin)
 
